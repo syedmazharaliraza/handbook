@@ -12,7 +12,7 @@ We use Rocket.Chat in our daily routine. We expect you to use it while you are w
 
 ## Best practices
 
-### No Hello \([https://nohello.com\](https://nohello.com\)\)
+### No Hello \([https://nohello.com\](https://nohello.com%29\)
 
 Please _do not_ say just "Hello" in chat. It is as if you called someone on the phone and said "Hi!" and then put them on hold!
 

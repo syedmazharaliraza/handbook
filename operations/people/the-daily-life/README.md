@@ -12,5 +12,3 @@ In this section you'll find out more about:
 * PTO Policy
 * Travel Policy
 
-
-
